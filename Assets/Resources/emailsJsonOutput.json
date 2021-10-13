@@ -1,0 +1,462 @@
+{
+  "emails": [     
+    {
+      "id": 18,
+      "is_phishing": false,
+      "name": "<link=\"18-1\">Lynne Gordon</link>",
+      "email_address": "<link=\"18-2\">GordonL91@gmail.com </link>",
+      "cues": {
+        "18-0": false,
+        "18-2": false
+      },
+      "subject": "<link=\"18-0\">Dissolution of partnership</link>",
+      "content": "I, Lynne Gordon, would like to withdrawal from the limited share arrangement between myself and Mr. Medlock, Formula Grey. The partnership was formed under the provision of a Partnership Agreement. I would like to no longer be associated with the company and have all assets of the partnership be distributed among partners.\r\n\nThank you,\r\nLynne Gordon",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 0,
+      "is_phishing": false,
+      "name": "<link=\"0-1\">Tenneko IT</link>",
+      "email_address": "<link=\"0-2\">webmail_services@tenneko.com </link>",
+      "cues": {
+        "0-0": false,
+        "0-3": false,
+        "0-4": false,
+        "0-5": false,
+        "0-2": false
+      },
+      "subject": "<link=\"0-0\">Webmail System Upgrade</link>",
+      "content": "<nobr><link=\"0-3\">To all</link></nobr> Lawsy <nobr><link=\"0-4\">account holders</link></nobr>,\r\n\nDue to various emails received by our webmail for phishing emails, users of Lawsy will be upgrading webmail system to 5GB of space. You can <nobr><link=\"0-5\">login to your account</link></nobr> for confirmation and upgrade.\r\n\nThanks for bearing with us, Tenneko IT.",
+      "linkURL": "",
+      "attachment": ""
+    },    
+    {
+      "id": 3,
+      "is_phishing": false,
+      "name": "<link=\"3-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"3-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "3-0": false,
+        "3-3": false,
+        "3-4": false,
+        "3-5": false,
+        "3-6": false,
+        "3-2": false
+      },
+      "subject": "<link=\"3-0\">Contract Amendment documents expected</link>",
+      "content": "<nobr><link=\"3-3\">Attention</link></nobr> Forward Response Agent,\r\n\nWe are expecting to receive Contract Amendment documents from Barbara Ruth, Deputy Chief of <nobr><link=\"3-4\">Euromony</link></nobr>. The email and its <nobr><link=\"3-5\">attachments</link></nobr> need to be <nobr><link=\"3-6\">urgently</link></nobr> reviewed and forwarded to the corporate department.\r\n\nThank you for your cooperation,\r\nNatasha, Lawsy CEO",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 14,
+      "is_phishing": true,
+      "name": "<link=\"14-1\">Do Not Reply</link>",
+      "email_address": "<link=\"14-2\">do-not-repl@yahoo.com </link>",
+      "cues": {
+        "14-0": true,
+        "14-3": true,
+        "14-4": false,
+        "14-5": true,
+        "14-6": true,
+        "14-2": true
+      },
+      "subject": "<link=\"14-0\">MFA Account Update</link>",
+      "content": "This is to remind you that Multi-<nobr><link=\"14-3\">Factorial</link></nobr> Authentication (MFA) will be implemented on your account in the following days. Please <nobr><link=\"14-4\">provide</link></nobr> your <nobr><link=\"14-5\">sign in details</link></nobr> on our webpage <u><nobr><link=\"14-6 link\">https://lawsey.com</link></nobr></u> to complete MFA.\r\n\r\n\r\n=== This is an automated email ===",
+      "linkURL": "http://lawsey.com/sign-in/mfa",
+      "attachment": ""
+    },
+    {
+      "id": 4,
+      "is_phishing": true,
+      "name": "<link=\"4-1\">Barbara Ruth</link>",
+      "email_address": "<link=\"4-2\">ruth.barb@eurom0ny.com </link>",
+      "cues": {
+        "4-0": true,
+        "4-3": true,
+        "4-4": true,
+        "4-5": false,
+        "4-6": false,
+        "4-7": false,
+        "4-10": true,
+        "4-2": true
+      },
+      "subject": "<link=\"4-0\">Contract Amendment documents</link>",
+      "content": "<nobr><link=\"4-3\">Hello</link></nobr>,\r\n\nPlease <nobr><link=\"4-4\">download</link></nobr> the <nobr><link=\"4-5\">attached</link></nobr> Contract Amendment documents as discussed. Please <nobr><link=\"4-6\">let us know</link></nobr> if you agree to the mentioned terms set by the company.\r\n\nSincerely,\r\nBarbara Ruth, Deputy Chief of <nobr><link=\"4-7\">Euromony</link></nobr>",
+      "linkURL": "",
+      "attachment": "<link=\"4-10\">Contract_amendment_docs.zip</link>"
+    },
+    {
+      "id": 22,
+      "is_phishing": false,
+      "name": "<link=\"22-1\">Van Leamon</link>",
+      "email_address": "<link=\"22-2\">LeamonVa94@sharice-volmer.com </link>",
+      "cues": {
+        "22-0": false,
+        "22-3": false,
+        "22-4": false,
+        "22-10": false,
+        "22-2": false
+      },
+      "subject": "<link=\"22-0\">Latest Case Status Information Needed</link>",
+      "content": "Dear Partner,\r\n\nOur CEO was enquiring about the current status of our case. Kindly <nobr><link=\"22-3\">provide the following information</link></nobr>:\r\n\n(1)\tprogress of the case in court till date;\r\n(2)\tNext hearing date & purpose;\r\n(3)\t<nobr><link=\"22-4\">Documents</link></nobr> or further information.\r\n\nSenior Consultant at Sharice Volmer",
+      "linkURL": "",
+      "attachment": "<link=\"22-10\">Sharice Volmer.png</link>"
+
+    },
+    {
+      "id": 16,
+      "is_phishing": true,
+      "name": "<link=\"16-1\">Yolanda Story</link>",
+      "email_address": "<link=\"16-2\">Story_Yolanda@bancklng.com </link>",
+      "cues": {
+        "16-0": true,
+        "16-3": false,
+        "16-4": true,
+        "16-5": true,
+        "16-2": true
+      },
+      "subject": "<link=\"16-0\">Event invitation</link>",
+      "content": "<link=\"16-3\">Greetings</link>,\r\n\nYou are being formally invited to join our <u><nobr><link=\"16-4 link\">meeting</link></nobr></u> on the recent <nobr><link=\"16-5\">COVLD 19</link></nobr> related changes where many experts will attend and discuss the major issues and problems people are facing.\r\n\r\n=== Yolanda invited you to join a meeting ===\r\n<u><nobr><link=\"16-10 link\">http://bancking.org/event-invite</link></nobr></u>",
+      "linkURL": "http://pay.me/id?3ag82hjwldo",
+      "attachment": ""
+    },    
+    {
+      "id": 12,
+      "is_phishing": false,
+      "name": "<link=\"12-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"12-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "12-0": false,
+        "12-10": false,
+        "12-1": false,
+        "12-2": false
+      },
+      "subject": "<link=\"12-0\">Recent Complaint</link>",
+      "content": "There has been a formal complaint issued for poorly handled work from Claude Carmody, Commerce Crest. They claim the service provided did not meet professional standards. No charges will be pressed.\r\nThank you for your cooperation,\r\nNatasha, Lawsy CEO",
+      "linkURL": "",
+      "attachment": "<link=\"12-10\">lawsy_complaint.pdf</link>"
+    },    
+    {
+      "id": 51,
+      "is_phishing": true,
+      "name": "<link=\"0-1\">Autumn Cameron</link>",
+      "email_address": "<link=\"0-2\">Cameron.Au@mail.com </link>",
+      "cues": {
+        "0-0": true,
+        "0-3": false,
+        "0-4": true,
+        "0-1": true,
+        "0-2": true
+      },
+      "subject": "<link=\"0-0\">Please Review Statement</link>",
+      "content": "<nobr><link=\"0-3\">Good day</link></nobr>,\r\n\r\nThis is Senior Supervisor from Lawsy. I tried contacting you earlier but you were not available. Let me know when I can contact you again. We will debit your account because of company customer complain on you. Preview <u><nobr><link=\"0-4 link\">here</link></nobr></u>.\r\n\r\nThank you,\r\nAutumn Cameron",
+      "linkURL": "http://lawzy.com/statement.pdf",
+      "attachement": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "is_phishing": true,
+      "name": "<link=\"13-1\">Claude Carmody</link>",
+      "email_address": "<link=\"13-2\">c.cardomy@gmail.com </link>",
+      "cues": {
+        "13-0": true,
+        "13-3": true,
+        "13-4": true,
+        "13-5": true,
+        "13-6": true,
+        "13-1": true,
+        "13-2": true
+      },
+      "subject": "<link=\"13-0\">Impending litigation</link>",
+      "content": "Due to your poor work ethics, we have consulted our attorney to file a suit against you. <nobr><link=\"13-3\">Refund us</link></nobr> <nobr><link=\"13-4\">immediately</link></nobr> at [8472619, 41 52 09] to resolve this matter. Failure to do so will cause <nobr><link=\"13-5\">significant inconvenience</link></nobr> and <nobr><link=\"13-6\">expenses to your account</link></nobr>.\r\n\nClaude Carmody, \r\ne-mail: c.cardomy@co-crest.com",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 5,
+      "is_phishing": false,
+      "name": "<link=\"5-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"5-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "5-0": false,
+        "5-3": false,
+        "5-4": false,
+        "5-10": false,
+        "5-1": false,
+        "5-2": false
+      },
+      "subject": "<link=\"5-0\">Paperwork assistance required</link>",
+      "content": "<nobr><link=\"5-3\">Attention</link></nobr> Forward Response Agent,\r\n\nI do not have an attorney to assist me with this paperwork and am asking for your assistance with these <nobr><link=\"5-4\">documents</link></nobr>.\r\nThank you for your cooperation,\r\nNatasha, Lawsy CEO",
+      "linkURL": "",
+      "attachment": "<link=\"5-10\">lawsyPaper32_2024.docx</link>"
+    },
+    {
+      "id": 17,
+      "is_phishing": false,
+      "name": "<link=\"17-1\">Claude Carmody</link>",
+      "email_address": "<link=\"17-2\">cardomy_claude@co-crest.com </link>",
+      "cues": {
+        "17-0": false,
+        "17-3": false,
+        "17-4": false,
+        "17-5": false,
+        "17-10": false,
+        "17-1": false,
+        "17-2": false
+      },
+      "subject": "<link=\"17-0\">Formal Complaint</link>",
+      "content": "<link=\"17-3\">Dear Sir/Madam</link>,\r\nI am writing to make a formal complaint against John Gray. They failed to provide me with a satisfactory service during my request for legal advice on resolving dispute between company ownership. I <nobr><link=\"17-4\">demand</link></nobr> my case be re-opened. I have <nobr><link=\"17-5\">attached</link></nobr> all necessary <nobr><link=\"17-5\">identification documents</link></nobr> and company ownership archives.\r\nThank you for your time,\r\nClaude",
+      "linkURL": "",
+      "attachment": "<link=\"17-10\">company_own_archives.xlsx</link>"
+    },
+    {
+      "id": 23,
+      "is_phishing": false,
+      "name": "<link=\"23-1\">Rita Mason</link>",
+      "email_address": "<link=\"23-2\">Mason_R@mail.com </link>",
+      "cues": {
+        "23-0": false,
+        "23-3": false,
+        "23-4": false,
+        "23-10": false,
+        "23-1": false,
+        "23-2": false
+      },
+      "subject": "<link=\"23-0\">Authorization for legal representative</link>",
+      "content": "<nobr><link=\"23-3\">To whomever it might concern</link></nobr>,\r\nI would like to use Lawsy\u2019s attorney services to represent my lawsuit in the court next week and proceed with the case until it has been resolved. I am defending myself against Martin who has filed a case of copyright infringement against me. I have <nobr><link=\"23-4\">attached the necessary documents</link></nobr> below.",
+      "linkURL": "",
+      "attachment": "<link=\"23-10\">ID_documents.pdf</link>"
+    },
+    {
+      "id": 6,
+      "is_phishing": true,
+      "name": "<link=\"6-1\">Natasa Brooks</link>",
+      "email_address": "<link=\"6-2\">natasha_ceo@lawzy.com </link>",
+      "cues": {
+        "6-0": true,
+        "6-3": false,
+        "6-4": true,
+        "6-5": true,
+        "6-6": true,
+        "6-7": false,
+        "6-10": true,
+        "6-1": true,
+        "6-2": true
+      },
+      "subject": "<link=\"6-0\">RE: Paperwork assistance required</link>",
+      "content": "<nobr><link=\"6-3\">Attention</link></nobr> <nobr><link=\"6-4\">employee</link></nobr>,\r\n\nI would like to ask you to <nobr><link=\"6-5\">download</link></nobr> these additional <nobr><link=\"6-6\">very important documents</link></nobr> in order to assist me further as requested earlier.\r\nThank you for your cooperation,\r\n<nobr><link=\"6-7\">Natasa Lawsy CEO</link></nobr>",
+      "linkURL": "",
+      "attachment": "<link=\"6-10\">lawsyPaper90_2024.zip</link>"
+    },
+    {
+      "id": 20,
+      "is_phishing": false,
+      "name": "<link=\"20-1\">Christopher Brown</link>",
+      "email_address": "<link=\"20-2\">Christopher_Br85@mail.com </link>",
+      "cues": {
+        "20-0": false,
+        "20-3": false,
+        "20-10": false,
+        "20-1": false,
+        "20-2": false
+      },
+      "subject": "<link=\"20-0\">Disability appeal letter</link>",
+      "content": "I would like to receive legal advice on how to proceed with the recent denial for benefits by my company. I was involved in a work-related accident on-site. I have <nobr><link=\"20-3\">attached</link></nobr> detailed information regarding medical records and appointment treatments that resulted from the accident.\r\nWith all due respect,\r\nBrown Christopher",
+      "linkURL": "",
+      "attachment": "<link=\"20-10\">myDocuments_2.zip</link>"
+    },
+    {
+      "id": 1,
+      "is_phishing": false,
+      "name": "<link=\"1-1\">Fern Williamson</link>",
+      "email_address": "<link=\"1-2\">Williamson_Fern91@quixx.com </link>",
+      "cues": {
+        "1-0": false,
+        "1-3": false,
+        "1-4": false,
+        "1-1": false,
+        "1-2": false
+      },
+      "subject": "<link=\"1-0\">Breach of contract</link>",
+      "content": "My family-owned business \"Quixas\" had been sued by a shopper for a breach of contract. The business has been accused of having failed at selling the merchandise at the advertised price.\r\nI would like <nobr><link=\"1-3\">to request</link></nobr> advice on the question whether my company has breached a contract with the shopper under the circumstances.\r\n<nobr><link=\"1-4\">Thank you</link></nobr>,\r\nFern Williamson",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 9,
+      "is_phishing": false,
+      "name": "<link=\"9-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"9-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "9-0": false,
+        "9-3": false,
+        "9-4": false,
+        "9-5": false,
+        "9-6": false,
+        "9-1": false,
+        "9-2": false
+      },
+      "subject": "<link=\"9-0\">Recent Business Agreement </link>",
+      "content": "<nobr><link=\"9-3\">Attention</link></nobr> Lawsy <nobr><link=\"9-4\">employees</link></nobr>,\r\n\nSenior management has unanimously agreed to use McKinsy services for the upcoming year. As a result staff will be asked to fill in an agreement letter which <nobr><link=\"9-5\">will be forwarded to you</link></nobr>. Please <nobr><link=\"9-6\">be aware</link></nobr> of the updated \u201cAffiliated Companies\u201d list.\r\nThank you for your cooperation,\r\nNatasha, Lawsy CEO",
+      "linkURL": "",
+      "attachment": ""
+    },
+      {
+      "id": 50,
+      "is_phishing": true,
+      "name": "<link=\"1-1\">Sally Jamieson</link>",
+      "email_address": "<link=\"1-2\">SallyJamieson94@me.com </link>",
+      "cues": {
+        "1-0": true,
+        "1-3": false,
+        "1-4": true,
+        "1-5": true,
+        "1-1": true,
+        "1-2": true
+      },
+      "subject": "<link=\"1-0\">Virtual Charity Event</link>",
+      "content": "We are organizing a virtual event this weekend. We are currently looking for people and organizations who can help us raise the fund for the event. To take part and contribute for a <nobr><link=\"1-3\">bettr</link></nobr> future please <nobr><link=\"1-4\">transfer</link></nobr> the participation fee to <nobr><link=\"1-5\">our account</link></nobr> \u201c937 823 / 4566\u201d and reference your unique ID: 390GB28F\r\n\r\nThank you in advance for your generosity and we hope to see you at the event.",
+      "linkURL": "",
+      "attachement": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "is_phishing": true,
+      "name": "<link=\"10-1\">Natasha Brook</link>",
+      "email_address": "<link=\"10-2\">natasha_ceo@lawzy.com </link>",
+      "cues": {
+        "10-0": true,
+        "10-3": false,
+        "10-4": true,
+        "10-5": false,
+        "10-6": true,
+        "10-10": false,
+        "10-1": true,
+        "10-2": true
+      },
+      "subject": "<link=\"10-0\">RE: Recent Business Agreement</link>",
+      "content": "<nobr><link=\"10-3\">Attention</link></nobr> <nobr><link=\"10-4\">everyone</link></nobr>,\r\n\nBelow is an <nobr><link=\"10-5\">attached pdf</link></nobr> with the tentative terms. Please <nobr><link=\"10-6\">fill in your personal details</link></nobr> and sign at bottom and return it to me.\r\nNatasha, Lawsy",
+      "linkURL": "",
+      "attachment": "<link=\"10-10\">McKinsey_Terms.pdf</link>"
+    },
+    {
+      "id": 11,
+      "is_phishing": true,
+      "name": "<link=\"11-1\">Georgina McKinsey</link>",
+      "email_address": "<link=\"11-2\">kinsy-estate@mail.com </link>",
+      "cues": {
+        "11-0": true,
+        "11-3": true,
+        "11-4": false,
+        "11-10": true,
+        "11-1": true,
+        "11-2": true
+      },
+      "subject": "<link=\"11-0\">Legal Case for Breach of Contract</link>",
+      "content": "On behalf of <nobr><link=\"11-3\">McKinsy</link></nobr> I authorize you to represent us for our legal case against Andrew McDonald for breach of our contract with them. You will also find <nobr><link=\"11-4\">attached</link></nobr> a copy of the company\u2019s official warning letter issued.\r\nGeorgina McKinsey, McKinsey Estate",
+      "linkURL": "",
+      "attachment": "<link=\"11-10\">letter_company.xls</link>"
+    },
+    {
+      "id": 7,
+      "is_phishing": false,
+      "name": "<link=\"7-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"7-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "7-0": false,
+        "7-3": false,
+        "7-4": false,
+        "7-5": false,
+        "7-1": false,
+        "7-2": false
+      },
+      "subject": "<link=\"7-0\">Important development team meeting</link>",
+      "content": "<nobr><link=\"7-3\">Greetings</link></nobr> Forward Response Agent,\r\n\n<nobr><link=\"7-4\">Please ensure</link></nobr> to sign up <nobr><link=\"7-5\">on time</link></nobr> for our team meetings held on <b>Zroom</b> this week. We will be discussing bonus structures for next month and going over the needs of our top clients.\r\nThank you for your cooperation,\r\nNatasha, Lawsy CEO",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 15,
+      "is_phishing": true,
+      "name": "<link=\"15-1\">Tech Vivid</link>",
+      "email_address": "<link=\"15-2\">webmail@tech-vivid.com </link>",
+      "cues": {
+        "15-0": true,
+        "15-3": false,
+        "15-4": false,
+        "15-5": false,
+        "15-6": true,
+        "15-7": false,
+        "15-10": false,
+        "15-1": true,
+        "15-2": true
+      },
+      "subject": "<link=\"15-0\">Web Mail system upgrade</link>",
+      "content": "<nobr><link=\"15-3\">Dear all</link></nobr>,\r\nDue to various email <nobr><link=\"15-4\">pishing</link></nobr> complaints received, <nobr><link=\"15-5\">your company</link></nobr> will be upgrading webmail system to 5GB of space. Click the link to our web page: <u><nobr><link=\"15-6 link\">https://tech-vivid.com/login</link></nobr></u> to <nobr><link=\"15-7\">login to your account</link></nobr> for confirmation and upgrade.\r\nTech Vivid, IT Company",
+      "linkURL": "http://tech-vibid.com/login",
+      "attachment": "<link=\"15-10\">TechVivid.png</link>"
+    },
+    {
+      "id": 8,
+      "is_phishing": true,
+      "name": "<link=\"8-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"8-2\">natasha_ceo@gmail.com </link>",
+      "cues": {
+        "8-0": true,
+        "8-3": false,
+        "8-4": true,
+        "8-5": true,
+        "8-1": true,
+        "8-2": true
+      },
+      "subject": "<link=\"8-0\">Last chance to attend</link>",
+      "content": "<nobr><link=\"8-3\">It has come to my attention</link></nobr> that you have not signed up for the company\u2019s team meeting this week on <b>Zroom</b>. You can use the following Calendar <u><nobr><link=\"8-4 link\">Link</link></nobr></u> to add your details.\r\n<nobr><link=\"8-5\">Thanks for you time</link></nobr>,\r\nNatasha, Lawsy CEO",
+      "linkURL": "http://lawzy.com/zroom-meeting",
+      "attachment": ""
+    },
+    {
+      "id": 21,
+      "is_phishing": false,
+      "name": "<link=\"21-1\">Yolanda Story</link>",
+      "email_address": "<link=\"21-2\">Story_Yolanda@mail.com </link>",
+      "cues": {
+        "21-0": false,
+        "21-3": false,
+        "21-4": false,
+        "21-5": false,
+        "21-6": false,
+        "21-1": false,
+        "21-2": false
+      },
+      "subject": "<link=\"21-0\">Update on current case status of pending court case</link>",
+      "content": "Greetings,\r\n\nI have not been able to contact you regarding my pending court case. I would therefore <nobr><link=\"21-3\">requet you</link></nobr> to <nobr><link=\"21-4\">update me</link></nobr> on the current status of the case. When is the next hearing due? What is the progress on the case so far? If there is any information or <nobr><link=\"21-5\">documents</link></nobr> needed from my side, then please <nobr><link=\"21-6\">let me know</link></nobr>.",
+      "linkURL": "",
+      "attachment": ""
+    },
+    {
+      "id": 19,
+      "is_phishing": false,
+      "name": "<link=\"19-1\">Natasha Brooks</link>",
+      "email_address": "<link=\"19-2\">natasha_ceo@lawsy.com </link>",
+      "cues": {
+        "19-0": false,
+        "19-3": false,
+        "19-4": false,
+        "19-1": false,
+        "19-2": false
+      },
+      "subject": "<link=\"19-0\">Your hard work and commitment is appreciated</link>",
+      "content": "Dear Forward Response Agent,\r\n\nYou have become a valued part of our company, and we would love it if you were <nobr><link=\"19-3\">able to attend</link></nobr> our online event in which we will recognize and congratulate the hard work and commitment during these unprecedented times\r\nPlease RSVP yes or not on the following invitation link <u><nobr><link=\"19-4 link\">wwww.lawsy.com/event-13-02/</link></nobr></u>.\r\nKind Regards,\r\nNatasha, Lawsy CEO",
+      "linkURL": "<u>wwww.lawsy.com/event-13-02/</u>",
+      "attachment": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Phishing Game</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 1024px; height: 576px; background: #231F20"></canvas>
+    <script src="Build/WebGL Builds.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/WebGL Builds.data",
+        frameworkUrl: "Build/WebGL Builds.framework.js",
+        codeUrl: "Build/WebGL Builds.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "Phishing Game",
+        productVersion: "1.1",
+      });
+    </script>
+  </body>
+</html>

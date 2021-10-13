@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EmailElements
+  - EmailContent
+  - test
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: WorldObjects
+    uniqueID: 2148329705
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Highlighter
+    uniqueID: 4016546069
+    locked: 0
+  - name: UI text
+    uniqueID: 3233798763
+    locked: 0

@@ -1,0 +1,408 @@
+ {
+  "emails": [
+    {
+      "id": 0,
+      "is_phishing": false,
+      "person_id": 24,
+      "cues_id": [
+        "0-0",
+        "0-2",
+        "0-3",
+        "0-4"
+      ],
+      "subject": "<link=\"0-0\">Webmail System Upgrade </link>",
+      "content": "<link=\"0-2\">To all</link> Lawsy <link=\"0-3-link\">account holders</link>,\r\nDue to various emails received by our webmail for phishing emails, users of Lawsy will be upgrading webmail system to 5GB of space. You can <nobr><link=\"0-4\">login to your account</link></nobr> for confirmation and upgrade.\r\nThanks for bearing with us, Albers Super Markets Co.",
+      "linkURL":"www.exampletext.co.uk",
+      "attachement": ["",""]
+    },
+    {
+      "id": 23,
+      "is_phishing": false,
+      "person_id": 48,
+      "cues_id": [
+        "23-0",
+        "23-2",
+        "23-3"
+      ],
+      "subject": "<link=\"23-0\">Authorization for legal representative</link>",
+      "content": "<link=\"23-2\">To whomever it might concern</link>,\r\nI would like to use Lawsy\u2019s attorney services to represent my lawsuit in the court next week and proceed with the case until it has been resolved. I am defending myself against Story who has filed a case of human rights violation against me. I have <nobr><link=\"23-3\">attached the necessary documents</link></nobr> below.",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 3,
+      "is_phishing": false,
+      "person_id": 37,
+      "cues_id": [
+        "3-0",
+        "3-2",
+        "3-3",
+        "3-4",
+        "3-5"
+      ],
+      "subject": "<link=\"3-0\">Contract Amendment documents expected</link>",
+      "content": "<link=\"3-2\">Attention</link> Forward Response Agent,\r\nWe are expecting to receive Contract Amendment documents from Bryan Milne, Deputy Chief of <link=\"3-3\">Endicott Johnson</link>. The email and its <link=\"3-4\">attachments</link> need to be <link=\"3-5\">urgently</link> reviewed and forwarded to the corporate department.\r\nThank you for your cooperation,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 4,
+      "is_phishing": true,
+      "person_id": 10,
+      "cues_id": [
+        "4-0",
+        "4-2",
+        "4-3",
+        "4-4",
+        "4-5",
+        "4-6"
+      ],
+      "subject": "<link=\"4-0\">Contract Amendment documents</link>",
+      "content": "<link=\"4-2\">Hello</link>,\r\nPlease <link=\"4-3\">download</link> the <link=\"4-4\">attached</link> Contract Amendment documents as discussed. Kindly <nobr><link=\"4-5\">let us know</link></nobr> if you agree to the mentioned terms set by the company.\r\nSincerely,\r\nBryan Milne, Deputy Chief of <link=\"4-6\">Endicot Johnson</link>",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 15,
+      "is_phishing": true,
+      "person_id": 21,
+      "cues_id": [
+        "15-0",
+        "15-2",
+        "15-3",
+        "15-4",
+        "15-5",
+        "15-6"
+      ],
+      "subject": "<link=\"15-0\">Web Mail system upgrade</link>",
+      "content": "<link=\"15-2\">Dear all</link>,\r\nDue to various email <link=\"15-3\">pishing</link> complaints received, <nobr><link=\"15-4\">your company</link></nobr> will be upgrading webmail system to 5GB of space. Click <link=\"15-5\">here</link> to <nobr><link=\"15-6\">login to your account</link></nobr> for confirmation and upgrade.\r\nThe Top IT Company",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 16,
+      "is_phishing": true,
+      "person_id": 16,
+      "cues_id": [
+        "16-0",
+        "16-2",
+        "16-3",
+        "16-4",
+        "16-5"
+      ],
+      "subject": "<link=\"16-0\">Event invitation</link>",
+      "content": "<link=\"16-2\">Greetings</link>,\r\nYou are being formally invited to join our <link=\"16-3\">meeting</link> on the recent <link=\"16-4\">COWID 15</link> related changes where many experts will attend and discuss the major issues and problems people are facing.\r\n\r\n=== Rose invited you to join a meeting ===\r\n<link=\"16-5\">LINK</link>",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 20,
+      "is_phishing": false,
+      "person_id": 60,
+      "cues_id": [
+        "20-0",
+        "20-2"
+      ],
+      "subject": "<link=\"20-0\">Disability appeal letter</link>",
+      "content": "I would like to receive legal advice on how to proceed with the recent denial for benefits by my company. I was involved in a work-related accident on-site. I have <link=\"20-2\">attached</link> detailed information regarding medical records and appointment treatments that resulted from the accident.\r\nWith all due respect,\r\nCox Thomas",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 5,
+      "is_phishing": false,
+      "person_id": 37,
+      "cues_id": [
+        "5-0",
+        "5-2"
+      ],
+      "subject": "<link=\"5-0\">Paperwork assistance required</link>",
+      "content": "<link=\"5-2\">Attention</link> Forward Response Agent,\r\nI do not have an attorney to assist me with this paperwork and am asking for your assistance with these documents.\r\nThank you for your cooperation,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 22,
+      "is_phishing": false,
+      "person_id": 32,
+      "cues_id": [
+        "22-0",
+        "22-2",
+        "22-3"
+      ],
+      "subject": "<link=\"22-0\">Latest Case Status Information Needed</link>",
+      "content": "Greetings,\r\nOur CEO was enquiring about the current status of our case. Kindly <nobr><link=\"22-2\">provide the following information</link></nobr>:\r\n(1)\tprogress of the case in court till date;\r\n(2)\tNext hearing date & purpose;\r\n(3)\t<link=\"22-3\">Documents</link> or further information.\r\nSenior Consultant at Chandlers",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 6,
+      "is_phishing": true,
+      "person_id": 11,
+      "cues_id": [
+        "6-0",
+        "6-2",
+        "6-3",
+        "6-4",
+        "6-5",
+        "6-6",
+        "6-7",
+        "6-8"
+      ],
+      "subject": "<link=\"6-0\">RE: Paperwork assistance required</link>",
+      "content": "<link=\"6-2\">Attention</link> <link=\"6-3\">employee</link>,\r\nI would like to ask you to <link=\"6-4\">download</link> these additional <nobr><link=\"6-5\">very important documents</link></nobr> in order to assist me further as requested earlier.\r\nUse the following link: <link=\"6-6\">LINK</link> and <nobr><link=\"6-7\">enter your details</link></nobr>\r\nThank you for your cooperation,\r\n<link=\"6-8\">Natasa</link> Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 17,
+      "is_phishing": false,
+      "person_id": 79,
+      "cues_id": [
+        "17-0",
+        "17-2",
+        "17-3",
+        "17-4"
+      ],
+      "subject": "<link=\"17-0\">Formal Complaint</link>",
+      "content": "0#Dear Sir/Madam#,\r\nI am writing to make a formal complaint against Donna Holliday. They failed to provide me with a satisfactory service during my request for legal advice on resolving dispute between company ownership. I <link=\"17-2\">demand</link> my case be re-opened. I have <link=\"17-3\">attached</link> all necessary <nobr><link=\"17-4\">identification documents</link></nobr> and company ownership archives.\r\nKindest Regards,\r\nRichards",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 7,
+      "is_phishing": false,
+      "person_id": 37,
+      "cues_id": [
+        "7-0",
+        "7-2",
+        "7-3",
+        "7-4"
+      ],
+      "subject": "<link=\"7-0\">Important development team meeting</link>",
+      "content": "<link=\"7-2\">Attention</link> some fictional position,\r\n<nobr><link=\"7-3\">Please ensure</link></nobr> to sign up <link=\"7-4\">on time</link> for our team meetings held on *Somewhere* this week. We will be discussing bonus structures for next month and going over the needs of our top clients.\r\nThank you for your cooperation,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 14,
+      "is_phishing": true,
+      "person_id": 64,
+      "cues_id": [
+        "14-0",
+        "14-2",
+        "14-3",
+        "14-4",
+        "14-5"
+      ],
+      "subject": "<link=\"14-0\">MFA Account Update</link>",
+      "content": "This is to remind you that Multi-<link=\"14-2\">Factorial</link> Authentication (MFA) will be implemented on your account in the following days. Please <link=\"14-3\">provide</link> your <nobr><link=\"14-4\">sign in details</link></nobr> <link=\"14-5\">here</link> to complete MFA.\r\n\r\n=== This is an automated email ===",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 8,
+      "is_phishing": true,
+      "person_id": 11,
+      "cues_id": [
+        "8-0",
+        "8-2",
+        "8-3",
+        "8-4"
+      ],
+      "subject": "<link=\"8-0\">Last chance to attend</link>",
+      "content": "<link=\"8-2\">It has come to my attention</link> that you have not signed up for the company\u2019s team meeting this week on *Somewhere*. Use this <nobr><link=\"8-3\">Calendar Link</link></nobr> to add your details.\r\n<link=\"8-4\">Thanks for your time</link>,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 18,
+      "is_phishing": false,
+      "person_id": 35,
+      "cues_id": [
+        "18-0"
+      ],
+      "subject": "<link=\"18-0\">Dissolution of partnership</link>",
+      "content": "I, Sally Jamieson, would like to withdrawal from the limited share arrangement between myself and Mr. Anderson, 0#Fit Tonic. The partnership was formed under the provision of a Partnership Agreement. I would like to no longer be associated with the company and have all assets of the partnership be distributed among partners.",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 19,
+      "is_phishing": false,
+      "person_id": 46,
+      "cues_id": [
+        "19-0",
+        "19-2",
+        "19-3"
+      ],
+      "subject": "<link=\"19-0\">Your hard work and commitment is appreciated</link>",
+      "content": "Dear Forward Response Agent,\r\nYou have become a valued part of our company, and we would love it if you were <nobr><link=\"19-2\">able to attend</link></nobr> our online event in which we will recognize and congratulate the hard work and commitment during these unprecedented times\r\nPlease RSVP yes or not on the following invitation link <link=\"19-3\">LINK</link>.\r\nKind Regards,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 9,
+      "is_phishing": false,
+      "person_id": 37,
+      "cues_id": [
+        "9-0",
+        "9-2",
+        "9-3",
+        "9-4",
+        "9-5"
+      ],
+      "subject": "<link=\"9-0\">Recent Business Agreement</link>",
+      "content": "<link=\"9-2\">Attention</link> Lawsy <link=\"9-3\">employees</link>,\r\nSenior management has unanimously agreed to use Landskip Yard Care services for the upcoming year. As a result staff will be asked to fill in an agreement letter which <nobr><link=\"9-4\">will be forwarded to you</link></nobr>. Please <nobr><link=\"9-5\">be aware</link></nobr> of the updated \u201cAffiliated Companies\u201d list.\r\nThank you for your cooperation,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 10,
+      "is_phishing": true,
+      "person_id": 12,
+      "cues_id": [
+        "10-0",
+        "10-2",
+        "10-3",
+        "10-4",
+        "10-5"
+      ],
+      "subject": "<link=\"10-0\">RE: Recent Business Agreement</link>",
+      "content": "<link=\"10-2\">Attention</link> <link=\"10-3\">everyone</link>,\r\nBelow is an <nobr><link=\"10-4\">attached pdf</link></nobr> with the tentative terms. Please <nobr><link=\"10-5\">fill in your details</link></nobr> and sign at bottom and return it to me.\r\nNatasha Lawsy",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 11,
+      "is_phishing": true,
+      "person_id": 78,
+      "cues_id": [
+        "11-0",
+        "11-2",
+        "11-3"
+      ],
+      "subject": "<link=\"11-0\">Legal Case for Breach of Contract</link>",
+      "content": "On behalf of <link=\"11-2\">Landskip Yard Care</link> I authorize you to represent us for our legal case against Gary McDonald for breach of our contract with them. You will also find <link=\"11-3\">attached</link> a copy of the company\u2019s official warning letter issued.\r\nRita Mason, Landskip Yard Care",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 21,
+      "is_phishing": false,
+      "person_id": 14,
+      "cues_id": [
+        "21-0",
+        "21-2",
+        "21-3",
+        "21-4",
+        "21-5"
+      ],
+      "subject": "<link=\"21-0\">Update on current case status of pending court case</link>",
+      "content": "Greetings,\r\nI have not been able to contact you regarding my pending court case. I would therefore <nobr><link=\"21-2\">request you</link></nobr> to kindly <nobr><link=\"21-3\">update me</link></nobr> on the current status of the case. When is the next hearing due? What is the progress on the case so far? If there is any information or <link=\"21-4\">documents</link> needed from my side, then please <nobr><link=\"21-5\">let me know</link></nobr>.",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 1,
+      "is_phishing": false,
+      "person_id": 69,
+      "cues_id": [
+        "1-0",
+        "1-2"
+      ],
+      "subject": "<link=\"1-0\">Breach of contract</link>",
+      "content": "My family-owned business \"County Seat\" had been sued by a shopper for a breach of contract. The business has been accused of having failed at selling the merchandise at the advertised price.\r\nI would like <nobr><link=\"1-2\">to request</link></nobr> advice on the question whether my company has breached a contract with the shopper under the circumstances.\r\nThank you,\r\nJennifer Abell",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 12,
+      "is_phishing": false,
+      "person_id": 37,
+      "cues_id": [
+        "12-0"
+      ],
+      "subject": "<link=\"12-0\">Recent Complaint</link>",
+      "content": "There has been a formal complaint issued for poorly handled work request from Jenson Marshall, @ Affinity Investment Group. They claim the service provided did not meet professional standards. No charges will be pressed.\r\nThank you for your cooperation,\r\nNatasha Lawsy CEO",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 2,
+      "is_phishing": false,
+      "person_id": 31,
+      "cues_id": [
+        "2-0",
+        "2-2",
+        "2-3"
+      ],
+      "subject": "<link=\"2-0\">Formal Complaint</link>",
+      "content": "I am writing to make a formal complaint against Emmie Shaw from Lawsy .\r\nMy complaint is that they failed to provide me with a satisfactory service during my request for legal advice on resolving dispute between company ownership. <nobr><link=\"2-2\">I demand</link></nobr> my case be re-opened. I have <link=\"2-3\">attached</link> all necessary identification documents and company ownership archives.\r\nChelsey Milne",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    },
+    {
+      "id": 13,
+      "is_phishing": true,
+      "person_id": 71,
+      "cues_id": [
+        "13-0",
+        "13-2",
+        "13-3",
+        "13-4",
+        "13-5"
+      ],
+      "subject": "<link=\"13-0\">Impending litigation</link>",
+      "content": "Due to your poor work ethics, we have consulted our attorney to file a suit against you. <nobr><link=\"13-2\">Refund us</link></nobr> <link=\"13-3\">immediately</link> at [Acc num, sort code] to resolve this matter. Failure to do so will cause <nobr><link=\"13-4\">significant inconvenience</link></nobr> and <nobr><link=\"13-5\">expenses to your account</link></nobr>.\r\nJenson Marshall, Affinity Investment Group",
+      "attachement": {
+        "name": "",
+        "size": ""
+      }
+    }
+  ]
+}
